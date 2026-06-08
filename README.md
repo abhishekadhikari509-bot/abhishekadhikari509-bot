@@ -2,7 +2,7 @@
 
 ## 🚀 QA Engineer | Playwright Automation Tester
 
-- 🌱 Learning Playwright, JavaScript & Automation Testing
+- 🌱 Learning Playwright, Python & Automation Testing
 - 💻 Interested in QA Automation & Web Testing
 - 📫 Reach me: abhishekadhikari509@gmail.com
 
