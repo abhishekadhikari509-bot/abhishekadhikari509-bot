@@ -1,8 +1,8 @@
 # Hi 👋, I'm Abhishek
 
-## 🚀 QA Engineer | Playwright Automation Tester
+## 🚀 QA Engineer | QA Intern @Mercer
 
-- 🌱 Learning Playwright, Python & Automation Testing
+- 🌱 Learning Playwright, typescript & Automation Testing
 - 💻 Interested in QA Automation & Web Testing
 - 📫 Reach me: abhishekadhikari509@gmail.com
 
@@ -14,6 +14,7 @@
 - Automation Testing
 - Playwright
 - JavaScript
+- typescript
 - HTML & CSS
 - SQL
 
