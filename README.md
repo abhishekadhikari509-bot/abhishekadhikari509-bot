@@ -2,7 +2,6 @@
 
 ### QA Engineer | QA Intern @ Mercer | Manual & Automation Testing
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekadhikari509-bot&label=Profile%20Views&color=blue&style=flat)
 ---
 
 ## 👨‍💻 About Me
