@@ -2,133 +2,98 @@
 
 # Abhishek Adhikari
 
-### QA Engineer • Quality Assurance • Test Automation
+### QA Engineer | Test Automation | API Testing
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=QA+Engineer;Automation+Testing+Enthusiast;Playwright+%7C+TypeScript+%7C+Azure+DevOps;Building+Reliable+Software" />
-</p>
+Building reliable software through structured testing and clean automation.
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=abhishekadhikari509-bot&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/abhishekadhikari509-bot?style=flat&logo=github"/>
-<img src="https://img.shields.io/github/stars/abhishekadhikari509-bot?style=flat&logo=github"/>
-</p>
-
-<p>
-<a href="https://github.com/abhishekadhikari509-bot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishek-adhikari-11653a320">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+<a href="https://www.linkedin.com/in/abhishek-adhikari-11653a320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abhishekadhikari509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/abhishekadhikari509-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-QA Intern at **Mercer** focused on delivering high-quality software through modern testing practices.
-
-- 🔹 Manual Testing
-- 🔹 Automation Testing
-- 🔹 Playwright
-- 🔹 TypeScript
-- 🔹 Azure DevOps
-- 🔹 Lighthouse
-- 🔹 SQL
-- 🔹 Continuous Learning
+I am a QA Engineer (currently QA Intern at **Mercer**) with hands-on experience in manual and automation testing of web applications and APIs. I focus on finding defects early, building maintainable test automation, and improving product quality and performance.
 
 ---
 
-# ⚡ Tech Stack
+## Skills
 
-<p align="center">
+### Test Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-555555?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,git,github,vscode"/>
+### API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-555555?style=flat-square)
 
-</p>
+### Testing Types
+![Regression](https://img.shields.io/badge/Regression-0E75B6?style=flat-square)
+![Sanity](https://img.shields.io/badge/Sanity-0E75B6?style=flat-square)
+![Monkey Testing](https://img.shields.io/badge/Monkey%20Testing-0E75B6?style=flat-square)
+![Non--Functional](https://img.shields.io/badge/Non--Functional-0E75B6?style=flat-square)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-0E75B6?style=flat-square)
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
----
-
-# 🚀 Current Focus
-
-✔ Playwright Automation Frameworks
-
-✔ Page Object Model (POM)
-
-✔ End-to-End Testing
-
-✔ Azure DevOps Pipelines
-
-✔ Web Performance Testing
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekadhikari509-bot&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekadhikari509-bot&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhishekadhikari509-bot&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+### Tools & Platforms
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 🏆 GitHub Trophy
+## What I Do
+
+| Area | Details |
+|------|---------|
+| **Test Automation** | End-to-end UI tests with Playwright and TypeScript using the Page Object Model |
+| **API Testing** | Validating endpoints, status codes, payloads and error handling with Postman and Bruno |
+| **Functional Testing** | Regression, sanity and monkey testing to protect releases from defects |
+| **Non-Functional Testing** | Performance and usability checks using Lighthouse and Chrome DevTools |
+| **Database Validation** | SQL queries to verify data integrity and backend results |
+| **Test Management** | Test cases, bug reports and tracking in Azure DevOps and Excel |
+| **CI/CD** | Running automated tests in Azure DevOps pipelines |
+
+---
+
+## Current Focus
+
+- Building scalable Playwright automation frameworks
+- Improving test coverage with end-to-end and API tests
+- Automating regression suites in Azure DevOps pipelines
+- Web performance testing and analysis
+
+---
+
+## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekadhikari509-bot&theme=algolia&no-frame=true&row=1&column=6"/>
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhishekadhikari509-bot&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekadhikari509-bot&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Contact
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekadhikari509-bot&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📬 Connect
-
-📧 **Email**  
-**abhishekadhikari509@gmail.com**
-
-💼 **LinkedIn**  
-**https://www.linkedin.com/in/abhishek-adhikari-11653a320**
-
-💻 **GitHub**  
-**https://github.com/abhishekadhikari509-bot**
+- **Email:** abhishekadhikari509@gmail.com
+- **LinkedIn:** [abhishek-adhikari](https://www.linkedin.com/in/abhishek-adhikari-11653a320)
+- **GitHub:** [abhishekadhikari509-bot](https://github.com/abhishekadhikari509-bot)
 
 ---
 
 <div align="center">
 
-### *"Quality is engineered, not inspected."*
+*Quality is engineered, not inspected.*
 
 </div>
